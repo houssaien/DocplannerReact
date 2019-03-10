@@ -1,0 +1,15 @@
+.logo{
+    margin-top: 20px
+}
+
+.title{
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin-top: 20px
+}
+.descrip{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #747474;
+    margin: .8em 0;
+    line-height: 1.75;
+}

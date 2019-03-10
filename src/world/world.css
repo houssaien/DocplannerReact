@@ -1,0 +1,25 @@
+.back{
+    height: 600px;
+    background-image: url(bg.png);
+}
+.title-world{
+    text-align: left;
+    margin-top: 40px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+
+.descip-world{
+    margin-top: 20px;
+    text-align: left;
+}
+.card0{
+    margin-bottom: 30px;
+}
+.card1{
+    margin-top: 30px;
+}
+
+.card2{
+    margin-top: 30px;
+}

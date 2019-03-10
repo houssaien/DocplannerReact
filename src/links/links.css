@@ -1,0 +1,15 @@
+.titlelogo{
+font-size: 1.4em;
+padding-right: 1em;
+color: #00b39b;
+text-align: left;
+}
+
+.titlelogo1{
+    font-size: .8em;
+    padding-right: 1em;
+    color: #00b39b;
+    text-align: left;
+    fill: silver;
+    width: 200px;
+}

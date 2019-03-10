@@ -1,0 +1,35 @@
+.descrip1{
+background-color: #00b39b;
+border-radius: 15px;
+height: 394px;
+width: 477px;
+padding-right: 80px;
+padding-left: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+
+.descrip2{
+    background-color: #3d83df;
+    border-radius: 15px;
+    height: 394px;
+    width: 477px;
+    padding-right: 80px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.title1{
+    text-align: left;
+    color: white;  
+}
+.title1-desc{
+    text-align: left;
+    font-size: 27px;
+    color: white;   
+}
+.logo{
+ display: relative;
+}
